@@ -1,7 +1,7 @@
 # Certificado Python
 
 [![Certificado Python]
-![image]([https://github.com/devropaes/certificado_python/blob/main/certificado_python.pdf])
+![image][([https://github.com/devropaes/certificado_python/blob/main/certificado_python.pdf])]
 
 ## Descrição
 
@@ -15,7 +15,7 @@ Este repositório contém o certificado que obtive após concluir com sucesso o 
 
 ## Conteúdo do Repositório
 
-- `([https://github.com/devropaes/certificado_python/blob/main/certificado_python.pdf])`: O arquivo do certificado.
+- `certificado_python.pdf`: O arquivo do certificado.
 
 ## Como Verificar o Certificado
 
