@@ -1,11 +1,11 @@
 # Certificado Python
 
 [![Certificado Python]
-![image](https://github.com/devropaes/certificado_python/blob/main/certificado_python.pdf)
+![image]([https://github.com/devropaes/certificado_python/blob/main/certificado_python.pdf])
 
 ## Descrição
 
-Este repositório contém o certificado que obtive após concluir com sucesso o módulo da linguagem em Python, do Curso de Desenvolvimento Full Stack. O certificado atesta a conclusão do programa e pode ser verificado online [aqui]([link_para_o_certificado_online]
+Este repositório contém o certificado que obtive após concluir com sucesso o módulo da linguagem em Python, do Curso de Desenvolvimento Full Stack. O certificado atesta a conclusão do programa e pode ser verificado online [aqui]([link_para_o_certificado_online])
 
 ## Detalhes do Certificado
 
@@ -15,7 +15,7 @@ Este repositório contém o certificado que obtive após concluir com sucesso o 
 
 ## Conteúdo do Repositório
 
-- `certificado_python.pdf`: O arquivo do certificado.
+- `([https://github.com/devropaes/certificado_python/blob/main/certificado_python.pdf])`: O arquivo do certificado.
 
 ## Como Verificar o Certificado
 
