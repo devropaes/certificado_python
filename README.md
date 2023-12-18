@@ -5,7 +5,7 @@
 
 ## Descrição
 
-Este repositório contém o certificado que obtive após concluir com sucesso o módulo da linguagem em Python, do Curso de Desenvolvimento Full Stack. O certificado atesta a conclusão do programa e pode ser verificado online [aqui]([(https://github.com/devropaes/certificado_python/blob/main/certificado_python.pdf)])
+Este repositório contém o certificado que obtive após concluir com sucesso o módulo da linguagem em Python, do Curso de Desenvolvimento Full Stack. O certificado atesta a conclusão do programa e pode ser verificado online [aqui][https://certificado.estacio.br/00c7ff2b7d22070f1d64512]
 
 ## Detalhes do Certificado
 
