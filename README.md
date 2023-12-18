@@ -1,7 +1,6 @@
 # Certificado Python
 
-[![Certificado Python](![image](https://github.com/devropaes/certificado_python/assets/143963091/903a5d03-73a7-42c3-8720-f9f9a38d7576)
-)](link_para_o_certificado_online)
+[![Certificado Python](![image]
 ![image](https://github.com/devropaes/certificado_python/assets/143963091/904c1665-a9b0-4431-a0f9-c07f2b0b97a7)
 
 ## Descrição
