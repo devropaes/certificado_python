@@ -17,10 +17,6 @@ Este repositório contém o certificado que obtive após concluir com sucesso o 
 
 - `certificado_python.pdf`: O arquivo do certificado.
 
-## Como Verificar o Certificado
-
-Você pode verificar a autenticidade do certificado visitando [https://certificado.estacio.br/00c7ff2b7d22070f1d64512] e inserindo o código de verificação fornecido no próprio certificado.
-
 ## Sobre o Módulo Python
 
 Sintaxe Python:
